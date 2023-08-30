@@ -8,4 +8,4 @@ resources:
 secretGenerator:
   - name: mysql-pass
     literals:
-      - password=kycprro_v
+      - password=thisismypassword
